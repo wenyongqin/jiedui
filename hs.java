@@ -17,7 +17,7 @@ public class hangshu
     	            while (lnr.readLine() != null){
     	        	linenumber++;
     	            }
-    	            System.out.println("此文本的行数为：  " + linenumber);
+    	            System.out.println("鏂囨湰鐨勮鏁扮粺璁★細 " + linenumber);
     	            lnr.close();
     		}else{
     			 System.out.println("File does not exists!");
